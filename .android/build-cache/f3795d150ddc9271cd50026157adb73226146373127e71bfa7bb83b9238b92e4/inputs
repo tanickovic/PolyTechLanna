@@ -1,0 +1,5 @@
+COMMAND=GENERATE_MOCKABLE_JAR
+fileName=mockable-android-26.v3.jar
+platformJar.path=/Users/student25/Library/Android/sdk/platforms/android-26/android.jar
+platformJar.size=26467929
+platformJar.timestamp=1521772459000

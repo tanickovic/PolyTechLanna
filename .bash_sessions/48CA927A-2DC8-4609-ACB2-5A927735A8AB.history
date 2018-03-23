@@ -1,0 +1,2 @@
+cd ~/Desktop/
+./test.sh 
